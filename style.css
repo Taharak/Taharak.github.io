@@ -1,0 +1,223 @@
+/*  -----------------全体------------------  */
+body{
+  background-color:#fffef9;
+  margin:0;
+  font-family:游ゴシック体, "Yu Gothic", YuGothic, sans-serif;
+  font-size:12pt;
+  }
+
+
+
+/*  -----------------ヘッダー------------------  */
+#header{
+  background-color:#2d7884;
+  color:#fffef9;
+  height:190px;
+  margin-top:0;
+  padding:50px;
+  }
+
+.box1{
+  padding:20px;
+  border:solid 8pt #fffef9;
+  width:600px;
+  height:130px;
+  float:left;
+  }
+
+.box1 p{
+  text-align:center;
+  line-height:1pt;
+  font-size:55pt;
+  }
+
+div.aikon{
+  background-color:#f8c739;
+  width:120px;
+  height:120px;
+  float:left;
+  margin-left:130px;
+  text-align:center;
+  font-size:15pt;
+  color:#2d7884;
+  }
+
+.aikon img{
+  margin-top:10px;
+  }
+
+table.prof{
+  float:left;
+  height:191px;
+  color:#fffef9;
+  padding:5px;
+  }
+
+td.namae{
+  border-bottom:solid 5pt #f8c739;
+  height:45px;
+  font-size:18pt;
+  }
+
+.prof td{
+  vertical-align:top;
+  }
+
+
+
+
+
+
+
+/*  -----------------コンテンツ------------------  */
+#contents{
+  clear:both;
+  padding:50px;
+  }
+
+.moji{
+  text-align:center;
+  color:#2d7884;
+  font-size:14pt;
+  margin-bottom:3px;
+  }
+
+.worktitle{
+  background-color:#2d7884;
+  color:#fffef9;
+  width:200px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:left:50px;
+  padding-top:5px;
+  text-align:center;
+  }
+
+h1{
+  font-weight:normal;
+  margin-top:5px;
+  display:inline;
+  }
+
+
+
+/* コンテンツのテーブル */
+table.works{
+  margin-left:auto;
+  margin-right:auto;
+  border-spacing:50px;
+  }
+
+.works td{
+  width:350px;
+  height:420px;
+  padding:30px;
+  }
+
+td.ao{
+  background-color:#2d7884;
+  color:#fffef9;
+  }
+
+td.kiiro{
+  background-color:#f8c739;
+  color:#504d3f;
+  }
+
+.works td img{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  transition:.3s;
+  }
+
+.tagu{
+  font-size:11pt;
+  }
+
+.wtitle{
+  font-weight:bold;
+  font-size:13pt;
+  }
+
+a:hover img{
+  opacity:0.6;
+  }
+
+
+
+/*  -----------------フッター------------------  */
+#footer{
+  background-color:#504d3f;
+  color:#fffef9;
+  height:100px;
+  text-align:center;
+  }
+
+#footer p{
+  line-height:100px;
+  }
+
+
+
+/*  -----------------サブページ------------------  */
+.sukima{
+  padding-top:50px;
+  }
+
+.gazou{
+  text-align:center;
+  }
+
+.cap1{
+  margin-top:30px;
+  margin-left:10%;
+  font-size:14pt;
+  }
+
+.cap2{
+  background-color:#2d7884;
+  color:#fffef9;
+  text-align:left;
+  }
+
+.setumei{
+  margin:50px 10%;
+  }
+
+.kasen{
+  border-bottom:dashed 8pt #2d7884;
+  }
+
+.spec{
+  margin-top:28px;
+  color:#2d7884;
+  font-size:11pt;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
