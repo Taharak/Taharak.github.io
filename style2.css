@@ -1,0 +1,55 @@
+@media screen and (max-width:1235px){
+ #header{
+  margin-top:0;
+  padding:40px;
+  height:520px;
+  }
+ 
+ .box1{
+  padding:15px;
+  width:90%;
+  height:70px;
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  border:solid 5pt #fffef9;
+  }
+
+ .box1 p{
+  text-align:center;
+  font-size:30pt;
+  }
+
+ div.jikosyoukai{
+  float:none;
+  }
+
+ div.aikon{
+  background-color:#f8c739;
+  width:120px;
+  height:120px;
+  float:none;
+  text-align:center;
+  font-size:15pt;
+  color:#2d7884;
+  margin:20px auto 2px auto;
+  }
+
+ .aikon img{
+  margin-top:10px;
+  }
+
+ table.prof{
+  float:none;
+  height:191px;
+  color:#fffef9;
+  padding:5px;
+  margin-left:auto;
+  margin-right:auto;
+  }
+
+ td.namae{
+  font-size:16pt;
+  }
+
+}
